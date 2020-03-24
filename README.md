@@ -1,24 +1,3 @@
-# vue-blog-admin
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+使用vue,vue-router,element ui,axios开发简单博客系统  
+代码高亮显示使用highlight.js  
+markdown编辑器使用mavon-editor
